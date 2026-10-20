@@ -3,3 +3,7 @@ O objetivo é criar um sistema para a Dona Neide organizar as encomendas de bolo
 A ideia é facilitar o controle dos pedidos, pagamentos e prazos de entrega. O sistema também calculará automaticamente uma taxa de urgência para pedidos feitos com menos de 24 horas de antecedência e mostrará as encomendas organizadas pela data de entrega.
 
 O sistema terá uma interface simples de usar, com letras maiores e cores em rosa bebê e branco.
+
+## Diagrama do Banco de Dados
+
+![Diagrama DER](./der.png)
